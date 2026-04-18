@@ -96,7 +96,9 @@ scan
 
 ## 🔧 Build and Installation Intructions:
 
-Please refer Installation.md
+#### Please refer Installation.md:
+https://github.com/hermanumrao/Reloc3D-ROS2_V1/blob/main/install.md
+
 ---
 
 ## ▶️ Run
