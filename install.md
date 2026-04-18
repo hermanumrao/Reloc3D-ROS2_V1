@@ -83,7 +83,7 @@ cd ~/ros2_ws/src
 ## 7. Clone the Repository
 
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/hermanumrao/Reloc3D-ROS2_V1.git
 ```
 
 ---
