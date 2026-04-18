@@ -157,4 +157,3 @@ Set Fixed Frame → `map`
 * FAST-LIO for odometry backbone
 * TEASER++ for robust global registration
 
-````
