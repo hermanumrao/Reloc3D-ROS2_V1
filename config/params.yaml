@@ -1,0 +1,5 @@
+relocalization_node:
+  ros__parameters:
+    voxel_size: 0.3
+    max_corr_dist: 2.0
+    max_iterations: 50
